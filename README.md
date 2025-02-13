@@ -1,4 +1,4 @@
-<h1 align="center">Amigo secreto</h1>
+<h1>Amigo secreto</h1>
 
 - Descripción del proyecto:
 Es una aplicación que permita a los usuarios ingresar nombres de amigos en una lista 
